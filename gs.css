@@ -7,13 +7,13 @@
     color: black; 
 }
 .name:hover{
-    border: solid 2px rgb(91, 53, 109);
-    text-shadow: 3px 3px 3px orange;
+    border: solid 2px rgb(19, 103, 177);
+    text-shadow: 3px 3px 3px rgb(27, 201, 224);
 }
 .direction{background-color: beige;font-family: 'Courier New', Courier, monospace; font-size: 10px;color: black;}
 .direction:hover{
-    background-color: aqua;
-    color:blue
+    background-color: rgb(255, 208, 0);
+    color:rgb(255, 0, 47)
 
 }
 .SIR-JOSEPH{
